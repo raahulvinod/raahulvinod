@@ -11,8 +11,7 @@
 ### Tech Stack
 **Skills and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,mongodb,mysql,prisma,html,css,bootstrap,tailwind,materialui,sass,graphql,redux,postgres,planetscale,redis)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,mongodb,mysql,prisma,html,css,bootstrap,tailwind,materialui,sass,graphql,redux,postgres,redis,postman,vite,firebase,figma,c,git,gitlab,powershell,aws,gcp,nginx	)](https://skillicons.dev)
 
 
 
