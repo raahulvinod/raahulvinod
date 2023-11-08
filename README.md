@@ -1,15 +1,15 @@
   ## Hi there, I'm Rahul vinod 👋
-  I like to explore new technologies and develop software solutions and quick hacks.I'm passionate about programming and the tech that makes it possible.
 
-<div align="center">
- 
 [![Linkedin Badge](https://img.shields.io/badge/-raahulvinod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/raahulvinod/) [![Twitter Badge](https://img.shields.io/badge/-@raahulvinod-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raahulvinod_)](https://twitter.com/raahulvinod)
 [![Gmail Badge](https://img.shields.io/badge/-rahulvinod135@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulvinod135@gmail.com)](mailto:rahulvinod135@gmail.com)
- </div> 
+
+  I like to explore new technologies and develop software solutions and quick hacks.I'm passionate about programming and the tech that makes it possible.
+
+
 
 
 ### Tech Stack
-**Languages and Tools:**  
+**Skills and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
