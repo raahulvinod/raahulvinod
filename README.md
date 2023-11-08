@@ -1,7 +1,6 @@
 <div align="center">
   <h3>Hi there, I'm Rahul vinod👋</h3>
-  <p>I'm a software developer.</p>
-  <p>💡  I like to explore new technologies and develop software solutions and quick hacks.</p>
+  <p>I like to explore new technologies and develop software solutions and quick hacks.</p>
   <p>I'm passionate about programming and the tech that makes it possible.</p>
 
  
@@ -26,6 +25,9 @@
 <code><img width="30px" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" title="bootstrap"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/sass.png" alt="SCSS"></code>
 <code><img width="30px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
+
+
+
 
 
 
