@@ -1,9 +1,10 @@
-  ## Hi there, I'm Rahul vinod 👋
+  ## Hi there, 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-raahulvinod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/raahulvinod/) [![Twitter Badge](https://img.shields.io/badge/-@raahulvinod-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raahulvinod_)](https://twitter.com/raahulvinod)
-[![Gmail Badge](https://img.shields.io/badge/-rahulvinod135@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulvinod135@gmail.com)](mailto:rahulvinod135@gmail.com)
-
-  I like to explore new technologies and develop software solutions and quick hacks.I'm passionate about programming and the tech that makes it possible.
+   👋 Hi, I’m @rahulvinod  : )
+- 👀 I’m interested in software development 🥳
+- 🌱 I am a self-taught developer who loves to solve problems digitally with top notch technologies. I am specialised in web technologies, curious to learn
+      more about developing scalable distributed systems, and cares about writing readable as well as maintainable code.
+- 📫 reach me at rahulvinod135@gmail.com 
 
 
 
