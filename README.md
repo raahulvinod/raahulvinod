@@ -1,10 +1,12 @@
-## Hi there, 👋
- 
- 👋 I’m @rahulvinod  : )
-- 👀 I’m interested in software development 🥳
-- 🌱 I am a self-taught developer who loves to solve problems digitally with top notch technologies. I am specialised in web technologies, curious to learn
-      more about developing scalable distributed systems, and cares about writing readable as well as maintainable code.
-- 📫 reach me at rahulvinod135@gmail.com
+<h3 align="center"> Hi there 👋</h3>
+
+<p align="center">
+I'm Rahul, a self-motivated tech enthusiast and full stack web developer.
+</p>
+
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/machnetinc"></a> | 📫 reach me at <a href="mailto:rahulvinod135@gmail.com" >rahulvinod135@gmail.com</a> | 💬 connect <a href="https://twitter.com/raahulvinod">@raahulvinod</a>
+</h4>
   
 ## Tech Stack
 **Skills and Tools:**  
