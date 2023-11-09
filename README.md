@@ -1,12 +1,6 @@
-<h3 align="center"> Hi there 👋</h3>
-
 <p align="center">
-I'm Rahul, a self-motivated tech enthusiast and full stack web developer.
+ 👋 Hi, I’m @rahulvinod : ) a self-motivated tech enthusiast and full stack web developer.
 </p>
-
-<h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc"></a> | 📫 reach me at <a href="mailto:rahulvinod135@gmail.com" >rahulvinod135@gmail.com</a> | 💬 connect <a href="https://twitter.com/raahulvinod">@raahulvinod</a>
-</h4>
 <br/>
 <h2 align="center">Skills and Tools</h2>
 
