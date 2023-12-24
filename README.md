@@ -1,5 +1,5 @@
 <p align="center">
- 👋 Hi, I’m @rahulvinod : ) a self-motivated tech enthusiast and full stack web developer.
+ 👋 Hi, I’m @rahulvinod : ) a self-motivated tech enthusiast and full stack web developer
 </p>
 
 <h2 align="center">Skills and Tools</h2>
